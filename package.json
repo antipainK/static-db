@@ -1,0 +1,24 @@
+{
+  "name": "static-db",
+  "version": "0.0.1",
+  "description": "JSON based minimalistic database intended for use in static websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antipainK/static-db.git"
+  },
+  "keywords": [
+    "db",
+    "js",
+    "json"
+  ],
+  "author": "antipain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antipainK/static-db/issues"
+  },
+  "homepage": "https://github.com/antipainK/static-db#readme"
+}
